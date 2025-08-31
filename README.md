@@ -26,6 +26,6 @@
 
 > ArrayList for storing cars and customers.
 
-Basic Scanner input/output for interaction.
+> Basic Scanner input/output for interaction.
 
-if-else and loops for menu-driven program.
+> if-else and loops for menu-driven program.
